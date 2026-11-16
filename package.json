@@ -1,0 +1,11 @@
+{
+  "name": "audio-latency-aligner",
+  "version": "0.1.0",
+  "description": "游戏音频混音图延迟对齐规划器：累计各源到输出设备的延迟并计算补偿样本数",
+  "type": "module",
+  "main": "src/latency-planner.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
